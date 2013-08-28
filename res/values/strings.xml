@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">UsersessionSample</string>
+    <string name="app_name">SharedPrefExample</string>
 
     <!-- Login/Create_Activity -->
     <string name="logintext">Bitte einloggen!</string>
