@@ -1,4 +1,4 @@
-/*  Copyright (C) 2013 by Martin Kie\u00dfling, Inc. All rights reserved.
+/*  Copyright (C) 2013 by Martin Kiessling, Inc. All rights reserved.
  *  Released under the terms of the GNU General Public License version 3 or later.
  *  
  */
@@ -14,7 +14,7 @@ import android.util.Base64;
 
 /**
  * 
- * @author Martin Kie\u00dfling
+ * @author Martin Kiessling
  * @version 1.0
  * 
  */
