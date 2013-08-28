@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UsersessionSample</string>
+
+    <!-- Login/Create_Activity -->
+    <string name="logintext">Bitte einloggen!</string>
+    <string name="hint_username">Dein Name</string>
+    <string name="hint_password">Passwort</string>
+    <string name="hint_password_repeat">Passwort wiederholen</string>
+    <string name="btn_create_user">Erstellen</string>
+    <string name="nologin">Nicht eingeloggt</string>
+    <string name="nouser">Kein Benutzer vorhanden</string>
+    <string name="exit">Beenden</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="wrong_password">Passwort falsch!</string>
+    <string name="username_error">Benutzername eingeben (mind. 3-stellig)</string>
+    <string name="password_error">Passwort eingeben (mind. 4-stellig)</string>
+    <string name="passwords_notequal">Passwörter stimmen nicht überein</string>
+    <string name="create_user">Benutzer erstellen</string>
+    <string name="delete_user">Benutzer löschen</string>
+    
+</resources>
